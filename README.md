@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrHereward
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking for a job
 - 📫 How to reach me oliwier.kaszkiel@gmail.com
 
 <!---
