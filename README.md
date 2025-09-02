@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MrHereward
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking for a job
-- 📫 How to reach me oliwier.kaszkiel@gmail.com
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cybersecurity
+- 📫 How to reach me oliwier.kaszkiel@proton.me
 
 <!---
 MrHereward/MrHereward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
